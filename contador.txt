@@ -10,3 +10,7 @@ funcion suma (int a, int  b)
 
 returm (a+b)
 }
+funcion resta asfsaf
+sdfsdfs
+sdfdsf
+dsfsdf
