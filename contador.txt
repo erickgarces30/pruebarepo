@@ -4,3 +4,9 @@ cout<<"hola mundo";
 
 return 0;
 }
+
+funcion suma (int a, int  b)
+{
+
+returm (a+b)
+}
